@@ -1,5 +1,5 @@
 public with sharing class AccountDisplayMessage {
     public static void accountDisplay() {
-        System.debug('Inside Account Display');
+        System.debug('Inside Account Display - New Alter');
     }
 }
